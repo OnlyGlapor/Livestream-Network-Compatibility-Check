@@ -25,13 +25,13 @@ This Python script helps you determine the optimal livestream settings based on 
    pip install speedtest-cli psutil gputil
    ```
 
-2. Save the script to a file, for example, `livestream_settings_calculator.py`.
+2. Save the script to a file, for example, `app.py`.
 
 ## Usage
 
 1. Run the script:
    ```bash
-   python livestream_settings_calculator.py
+   python app.py
    ```
 
 2. Click the "Check Settings" button in the GUI to start the analysis.
